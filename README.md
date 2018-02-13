@@ -11,6 +11,7 @@
 ## 相关题目
 
 1. kth largest element/median in an unsorted array 
+https://repl.it/@sisi/215m-Kth-Largest-Element-in-an-Array
 
   这道题用到了quick select, 每次partition完后判断target在左边还是右边还是中间，然后扔掉不要的那一半
 
